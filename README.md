@@ -1,2 +1,1 @@
-# Codsoft-.-Sudentgradecalculator
-Student Grade Calculator in  Java
+AI POWERED RESUME RANKING AND SCREENING SYSTEM
